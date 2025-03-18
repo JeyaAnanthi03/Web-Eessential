@@ -3,10 +3,10 @@
 
 **✨ Features**
 <br>
-User-friendly registration form with input validation
-Fields include name, age, email, phone, password, address, and food preference
-Client-side validation using JavaScript
-Server-side processing with PHP
+User-friendly registration form with input validation.<br>
+Fields include name, age, email, phone, password, address, and food preference.<br>
+Client-side validation using JavaScript.<br>
+Server-side processing with PHP.<br>
 Displays success or error messages after submission
 
 **🛠️ Technologies Used**
